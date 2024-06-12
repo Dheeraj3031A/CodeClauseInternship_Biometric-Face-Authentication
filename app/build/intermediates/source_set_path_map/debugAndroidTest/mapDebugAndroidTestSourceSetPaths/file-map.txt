@@ -1,0 +1,6 @@
+com.notdheeraj06.biometricsauthentication.test.app-jetified-core-1.5.0-0 /home/dheeraj/.gradle/caches/transforms-4/ab3cb98edf523bc39a1cbb36690d5213/transformed/jetified-core-1.5.0/res
+com.notdheeraj06.biometricsauthentication.test.app-jetified-annotation-experimental-1.4.0-1 /home/dheeraj/.gradle/caches/transforms-4/dd20f43984364fe6c57296b9479e6141/transformed/jetified-annotation-experimental-1.4.0/res
+com.notdheeraj06.biometricsauthentication.test.app-androidTest-2 /home/dheeraj/AndroidStudioProjects/BiometricsAuthentication/app/build/generated/res/resValues/androidTest/debug
+com.notdheeraj06.biometricsauthentication.test.app-mergeDebugAndroidTestResources-3 /home/dheeraj/AndroidStudioProjects/BiometricsAuthentication/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.notdheeraj06.biometricsauthentication.test.app-mergeDebugAndroidTestResources-4 /home/dheeraj/AndroidStudioProjects/BiometricsAuthentication/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.notdheeraj06.biometricsauthentication.test.app-debugAndroidTest-5 /home/dheeraj/AndroidStudioProjects/BiometricsAuthentication/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

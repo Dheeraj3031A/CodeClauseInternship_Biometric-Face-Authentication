@@ -1,0 +1,3 @@
+com.notdheeraj06.biometricsauthentication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
